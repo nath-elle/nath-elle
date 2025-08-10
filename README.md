@@ -1,8 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:f70535,100:4205f7&height=250&&text=Hallo!~👋&fontSize=80&fontAlignY=43&fontAlign=27&fontColor=ebe4c7&animation=twinkling&desc=Welcome%20to%20my%20profile!&descAlign=18&descAlignY=59&section=header)
 
-</details>
-  <div align="center">
-
 ## Hi there! Call me Nath! ✨ I am:
 
 - 📚 Currently studying to be a Full-Stack Web Developer
