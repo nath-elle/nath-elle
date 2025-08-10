@@ -10,6 +10,9 @@
 ## Olá! 👋 Eu sou Nath! ✨
 -->
 
+</details>
+  <div align="center">
+
 ## Tools and Skills
 
 <p align="center">
