@@ -14,7 +14,6 @@
   <div align="center">
 
 ## Tools and Skills
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,js,py,github,html,linkedin,md,obsidian,vercel,vscode," />
