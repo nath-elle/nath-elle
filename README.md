@@ -1,4 +1,25 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=#a30b2f&height=200&&text=Welcome%20/%20Bem%20Vindo!&fontsize=90&animation=twinkling&section=header)
+
+## Hi there 👋  I'm Nath! ✨
+
+<!-- <summary><b>PT-BR</b></summary>
+
+## Olá! 👋 Eu sou Nath! ✨
+-->
+
+## Tools and Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nath-elle&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=nath-elle&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 <!--
 **nath-elle/nath-elle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +35,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=#a30b2f&height=200&&text=Bye%20Bye!&fontsize=90section=footer)
