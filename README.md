@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=a30b2f&height=250&&text=Welcome%20/%20Bem%20Vindo!&fontSize=50&fontAlignY=55&fontAlign=33&fontColor=ebe4c7&animation=scaleIn&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=a30b2f&height=250&&text=Welcome%20/%20Bem%20Vindo!&fontSize=50&fontAlignY=55&fontAlign=33&fontColor=ebe4c7&animation=twinkling&section=header)
 
 ## Hi there 👋  I'm Nath! ✨
 
