@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=ebe4c7&height=250&&text=Welcome%20/%20Bem%20Vindo!&fontsize=90&animation=twinkling&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=a30b2f&height=250&&text=Welcome%20/%20Bem%20Vindo!&fontsize=90&fontColor=ebe4c7&animation=twinkling&section=header)
 
 ## Hi there 👋  I'm Nath! ✨
 
@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=ebe4c7&height=250&text=Bye%20Bye!&fontsize=90&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=a30b2f&height=250&text=Bye%20Bye!&fontsize=90&fontColor=ebe4c7&animation=blinking&section=footer)
