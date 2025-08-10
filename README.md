@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:f70535,100:4205f7&height=250&text=Bye%20Bye!%20❤️&fontAlign=75&fontAlignY=55&fontsize=90&fontColor=ebe4c7&animation=twinkling&desc=Hope%20to%20see%20you%20soon!&descAlign=63&descAlignY=77&descSize=25&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:f70535,100:4205f7&height=250&text=Bye%20Bye!%20❤️&fontAlign=75&fontAlignY=55&fontsize=90&fontColor=ebe4c7&animation=twinkling&desc=Hope%20to%20see%20you%20soon!&descAlign=67&descAlignY=77&descSize=25&section=footer)
