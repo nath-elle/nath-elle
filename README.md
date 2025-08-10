@@ -1,19 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:f70535,100:4205f7&height=250&&text=Hallo!~👋&fontSize=80&fontAlignY=43&fontAlign=27&fontColor=ebe4c7&animation=twinkling&desc=Welcome%20to%20my%20profile!&descAlign=18&descAlignY=59&section=header)
 
-## Hi there! Call me Nath! ✨ I am:
+## Hi there! Call me Nath! 💝 I am:
 
-- 📚 Currently studying to be a Full-Stack Web Developer
-- 
-
-<!-- <summary><b>PT-BR</b></summary>
-
-## Olá! 👋 Eu sou Nath! ✨
--->
+- Brazilian! But i also speak English! (C1)
+- 📚 Currently studying to be a Full-Stack Web Developer!
+- 🛠️ Looking for opportunities and projects to improve my skills!
+- ✨ Also passionate about and interested in games, creating things, teaching, stories (movies and books) and CATS!.
 
 </details>
   <div align="center">
 
 ## Tools and Skills
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,js,py,github,html,linkedin,md,obsidian,vercel,vscode," />
