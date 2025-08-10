@@ -10,7 +10,7 @@
 </details>
   <div align="center">
 
-## Tools and Skills&nbsp;
+<h2 align="center" style="border-bottom: none;">Tools and Skills</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
