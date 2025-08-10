@@ -14,6 +14,7 @@
 
 </details>
   <div align="center">
+  <br clear="right">
 
 ## Tools and Skills
 
