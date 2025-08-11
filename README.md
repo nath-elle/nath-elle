@@ -1,16 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:f70535,100:4205f7&height=250&&text=Hallo!~👋&fontSize=80&fontAlignY=43&fontAlign=27&fontColor=ebe4c7&animation=twinkling&desc=Welcome%20to%20my%20profile!&descAlign=18&descAlignY=59&section=header)
 
-## Hi there! Call me Nath! 💝 I am:
+# Hi there! Call me Nath! 💝 I am:
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="230px" max-width="230px" width="230px" align="right">
 
 </details>
   <div align="left">
 
-- Brazilian! But i also speak English! (C1)
+- 🇧🇷 Brazilian! But i also speak English! (C1)
 - 📚 Currently studying to be a Full-Stack Web Developer!
-- 🛠️ Looking for opportunities and projects to improve my skills!
-- ✨ Also passionate about and interested in games, creating things, teaching, stories (movies and books) and CATS!.
+- 🛠️ Looking for opportunities and projects to improve my skills and help people!
+- ✨ Also passionate about and interested in games, creating things, teaching, stories (movies and books) and CATS!
 
 </details>
   <div align="center">
@@ -43,18 +43,10 @@
 
 
 <!--
-**nath-elle/nath-elle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**work in progress (i dont know how to do this yet)
+</details>
+  <div align="center">
+### Hi! This incredible README was made using templates, resources and apis from other users repositories! Go check them work if you liked!
 -->
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:f70535,100:4205f7&height=250&text=Bye%20Bye!%20❤️&fontAlign=75&fontAlignY=55&fontsize=90&fontColor=ebe4c7&animation=twinkling&desc=Hope%20to%20see%20you%20soon!&descAlign=67&descAlignY=76&descSize=25&section=footer)
